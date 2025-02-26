@@ -15,3 +15,6 @@ const maVoiture: Voiture = {
 };
 
 console.log(getProperty(maVoiture, "marque")); // Output: Toyota
+console.log(getProperty(maVoiture, "modele")); // Output: Corolla
+console.log(getProperty(maVoiture, "annee"));
+//console.log(getProperty(maVoiture, "couleur"));
